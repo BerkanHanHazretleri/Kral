@@ -1,0 +1,2 @@
+# Kral
+En efsane repo
